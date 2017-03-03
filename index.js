@@ -14,9 +14,9 @@ export default function (kibana) {
       },
       
       
-      translations: [
-        resolve(__dirname, './translations/es.json')
-      ],
+      // translations: [
+      //   resolve(__dirname, './translations/es.json')
+      // ],
       
       
       hacks: [
